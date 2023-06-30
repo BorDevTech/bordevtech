@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![bordevtech's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bordevtech)](https://github.com/anuraghazra/github-readme-stats)
+[![bordevtech's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bordevtech&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BorDevTech/bordevtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
