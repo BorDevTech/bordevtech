@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="left">React/Next.js Web Developer | Financial Analyst | </h3>
 <div align="left"> 
   <a href="mailto:devell.robinson@bordevtech.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
   </a>
   <!--<a href="https://bordevtech.github.io/markdown-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" />
