@@ -46,7 +46,7 @@ Passionate about leveraging cloud technologies and automation to drive efficienc
 
 🌱 I’m currently learning more about Advanced Cloud DevOps Techniques, Infrastructure as Code, Containerization, Microservices, and Container Orchestration.
 
-💬 Ask me about React Development, TypeScirpt, and Clarity.
+💬 Ask me about React Development, TypeScript, and Clarity.
 
 📧 Reach out to me: devell.robinson@bordevtech.com
 
