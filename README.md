@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 <!-- Description-->
 <br> 
-Autodidact and self-starter Java Developer with solid knowledge in AWS and Azure. Well-versed in developing robust and scalable cloud-based solutions.
+Autodidact and self-starter TypeScript Developer with solid knowledge in NextJs and Google Analytics. Well-versed in developing robust and scalable cloud-based solutions.
 Passionate about leveraging cloud technologies and automation to drive efficiency and innovation in software development.
 <br>
 <!-- Description End-->
