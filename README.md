@@ -53,7 +53,7 @@ Passionate about leveraging cloud technologies and automation to drive efficienc
  </div>
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,discord,github,html,js,mysql,nextjs,obsidian,r,react,robloxstudio,ts,unity,unreal,vite,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,discord,github,html,js,mysql,nextjs,obsidian,r,react,robloxstudio,py,ts,unity,unreal,vite,vscode" /><br>
 </div>
 <br/>
 <div align="left">
