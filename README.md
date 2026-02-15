@@ -53,7 +53,27 @@ Passionate about leveraging cloud technologies and automation to drive efficienc
  </div>
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,discord,github,html,js,mysql,nextjs,obsidian,r,react,robloxstudio,py,ts,unity,unreal,vite,vscode" /><br>
+  <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"/></a>
+  <a href="https://www.discord.com"><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="https://www.github.com"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"/></a>
+  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+  <a href="https://www.nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs"/></a>
+  <a href="https://docs.obsidian.md/Home"><img src="https://skillicons.dev/icons?i=obsidian"/></a>
+  <a href="https://www.r-project.org/about.html"><img src="https://skillicons.dev/icons?i=r"/></a>
+  <a href="https://react.dev/learn"><img src="https://skillicons.dev/icons?i=react"/></a>
+  <a href="https://create.roblox.com/docs"><img src="https://skillicons.dev/icons?i=robloxstudio"/></a>
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=py"/></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts"/></a>
+  <a href="https://docs.unity3d.com/Manual/index.html"><img src="https://skillicons.dev/icons?i=unity"/></a>
+  <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/"><img src="https://skillicons.dev/icons?i=unreal"/></a>
+  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite"/></a>
+  <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=visualstudio"><img src="https://skillicons.dev/icons?i=vscode"/></a>
+  <br>
 </div>
 <br/>
 <div align="left">
